@@ -1,6 +1,6 @@
 import { Card, Divider, Text } from '@chakra-ui/react'
 import { useEffect, useState } from 'react'
-import * as dayjs from 'dayjs'
+import dayjs from 'dayjs'
 
 type TimerProps = {
   from: Date

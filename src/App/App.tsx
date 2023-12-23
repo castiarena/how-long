@@ -1,7 +1,7 @@
 import { ChakraBaseProvider, VStack } from '@chakra-ui/react'
 import { theme } from '../theme'
 import { Timer } from '../Timer'
-import * as dayjs from 'dayjs'
+import dayjs from 'dayjs'
 
 export const App = () => {
   return (
